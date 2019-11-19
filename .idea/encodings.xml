@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/com/ascent/bean/Orderitem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ascent/bean/Orders.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ascent/servlet/LoginServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ascent/servlet/MailServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ascent/servlet/OrderServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ascent/servlet/ProductServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ascent/servlet/ShopCartServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ascent/servlet/UserManagerServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ascent/test/AcesysDAOTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ascent/util/PageBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ascent/util/test/DataAccess.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<database-conf>
+<datasource>
+	<driver>com.mysql.cj.jdbc.Driver</driver>
+	<url>jdbc:mysql://localhost:3306/acesys?serverTimezone=GMT%2B8</url>
+	<user>root</user>
+	<password>root</password>
+</datasource>
+</database-conf>
